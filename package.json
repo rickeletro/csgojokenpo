@@ -1,0 +1,22 @@
+{
+  "name": "csgojokenpo",
+  "version": "1.0.0",
+  "description": "site de jogo para combate de skins csgo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickeletro/csgojokenpo.git"
+  },
+  "author": "Ricardo Ferreira de Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rickeletro/csgojokenpo/issues"
+  },
+  "homepage": "https://github.com/rickeletro/csgojokenpo#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
